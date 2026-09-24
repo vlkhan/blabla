@@ -10,3 +10,5 @@
 ## Как использовать
 1. Откройте папку нужного задания.
 2. Внутри смотрите файлы `task.md` (задание), `solution/` (код), `README.md` (как запускать).
+
+![Картинка](https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-cat-on-white-background-png-image_7094927.png)
